@@ -77,6 +77,7 @@ Isso irá gerar o arquivo f1_youtube_filtered.json com os campos:
 - viewCount
 - likeCount
 - commentCount
+
 E vai gerar também o arquvio f1_youtube.json com todos os dados extraídos da API
 
 ---
